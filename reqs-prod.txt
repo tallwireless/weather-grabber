@@ -1,1 +1,5 @@
 # These are modules which are required for producition
+
+paho-mqtt
+pyyaml
+requests
